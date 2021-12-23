@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">kotlin practice</string>
+    <string name="show_more_dogs">SHOW MORE DOGS</string>
+    <string name="choose_your_dog">Choose your dog</string>
+</resources>
